@@ -2,7 +2,7 @@
 ## <a href = "http://librarymanagement.pythonanywhere.com/">Live URL</a>
  This project is currently hosted on pythonanywhere
 
-### <b>Tech Stacks Used:</b>Django,Python 3.8,HTML,CSS,javaScript,Ajax,Bootstrap, Postgre SQL(sqlite locally, postgres in live server)
+### <b>Tech Stacks Used:</b>Django,Python 3.8,HTML,CSS,javaScript,Ajax,Bootstrap,SQLite
 ## How to run this project?
 ```bash
   pip install virtualenv
